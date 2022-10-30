@@ -4,34 +4,34 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.picture-wrapper {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa img {
+.picture-wrapper img {
   width: 100%;
 }
-.aaa .more-inf {
+.picture-wrapper .more-info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.picture-wrapper { text-align: center;
 }
 }
-.centered-main-page-element {
+.application {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
-.task {
+.input-style {
   width: 56%;
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.new-task-wrapper {
   display: flex;
 }
 ul {

@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.picture-wrapper { text-align: center;
-}
+
+  .picture-wrapper {
+    text-align: center;
+  }
+
 }
 .application {
   display: block;

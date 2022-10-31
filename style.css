@@ -42,6 +42,7 @@
 
 .new-task-wrapper {
   display: flex;
+  margin-top: 20px;
 }
 
 #incomplete-tasks,
